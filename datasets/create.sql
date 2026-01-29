@@ -1,6 +1,4 @@
 -- SQL used to create, retieve, update and delete (CRUD) data from the database.
-
-
 -- The "CREATE" statement is used to create databases, tables etc.
 -- This statement will create a database called "mydb"
 CREATE DATABASE mydb;
